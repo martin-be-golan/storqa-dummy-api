@@ -6,6 +6,7 @@
       "criteria": [
         {
           "id": "tt",
+          "order": 1,
           "text": "When user click on Sign in, then user sees a login form with email and password fields and login button"
         }  
       ]
