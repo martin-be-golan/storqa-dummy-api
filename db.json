@@ -13,6 +13,11 @@
           "id": "tt2",
           "order": 2,
           "text": "When user click on Login button, then form is submitted. If data is right and user is exists, then is redirected to list of projects"
+        },
+        {
+          "id": "tt23",
+          "order": 3,
+          "text": "Validation message Incorrect email or password appears when credentials are wrong"
         }
       ]
     }
