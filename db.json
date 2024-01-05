@@ -8,7 +8,12 @@
           "id": "tt",
           "order": 1,
           "text": "When user click on Sign in, then user sees a login form with email and password fields and login button"
-        }  
+        },
+        {
+          "id": "tt2",
+          "order": 2,
+          "text": "When user click on Login button, then form is submitted. If data is right and user is exists, then is redirected to list of projects"
+        }
       ]
     }
   ],
