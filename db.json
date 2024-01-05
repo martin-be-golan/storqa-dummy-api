@@ -6,17 +6,17 @@
       "criteria": [
         {
           "id": "3a0a5a47-362a-4567-b5a9-11d172d87f8e",
-          "order": 1
+          "order": 1,
           "text": "When user click on Sign in, then user sees a login form with email and password fields and login button"
         },
         {
           "id": "3a0a5a47-378a-4567-b5a9-11d172d87f8e",
-          "order": 2
+          "order": 2,
           "text": "When user click on Login button, then form is submitted. If data is right and user is exists, then is redirected to list of projects"
         },
         {
           "id": "3a0a5a47-378a-4567-b5a9-11d172d9874e",
-          "order": 3
+          "order": 3,
           "text": "Validation message “Incorrect email or password” appears when credentials are wrong"
         }
       ]
