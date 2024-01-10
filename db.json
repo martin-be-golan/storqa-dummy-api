@@ -19,6 +19,12 @@
           "order": 3,
           "text": "Validation message Incorrect email or password appears when credentials are wrong"
         }
+      ],
+      "contentTyes": [
+        {
+          "type": "note",
+          "id": "sdfs654-sdfsd"
+        }
       ]
     }
   ],
