@@ -28,6 +28,12 @@
       ]
     }
   ],
+  "notes":[
+    {
+      "id": "sdfs654-sdfsd",
+      "content": "{"type":"doc","content":[{"type":"heading","attrs":{"level":2},"content":[{"type":"text","marks":[{"type":"bold"}],"text":"Render Scope"}]},{"type":"paragraph","content":[{"type":"text","marks":[{"type":"textStyle","attrs":{"color":"rgb(33, 53, 71)"}}],"text":"Vue components' slot mechanism is inspired by the "},{"type":"text","marks":[{"type":"link","attrs":{"href":"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/slot","target":"_blank","rel":"noreferrer","class":"text-stone-400 underline underline-offset-[3px] hover:text-stone-600 transition-colors cursor-pointer"}},{"type":"bold"}],"text":"native Web Component "},{"type":"text","marks":[{"type":"code"}],"text":"<slot>"},{"type":"text","text":" element"},{"type":"text","marks":[{"type":"textStyle","attrs":{"color":"rgb(33, 53, 71)"}}],"text":", but with additional capabilities that we will see later."}]}]}"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
