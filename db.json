@@ -20,6 +20,16 @@
           "text": "Validation message Incorrect email or password appears when credentials are wrong"
         }
       ],
+      "tags": [
+        {
+          "id": "sdfhg-78ds-sd88",
+          "title": "Authentication"
+        },
+        {
+          "id": "sdadahg-78ds-sd88",
+          "title": "Beta"
+        }
+      ],
       "contentTypes": [
         {
           "type": "note",
@@ -42,6 +52,10 @@
     {
       "id": "sdadahg-78ds-sd88",
       "title": "Beta"
+    },
+    {
+      "id": "dfs654-sdf545dd",
+      "title": "Infrastructure"
     }
   ],
   "profile": {
