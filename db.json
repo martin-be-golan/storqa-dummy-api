@@ -56,6 +56,26 @@
     {
       "id": "dfs654-sdf545dd",
       "title": "Infrastructure"
+    },
+    {
+      "id": "dfs654-sdf5987dd",
+      "title": "Bug"
+    },
+    {
+      "id": "d4584-sdf5987dd",
+      "title": "Critical"
+    },
+    {
+      "id": "ght84-sdf5987dd",
+      "title": "Analysis"
+    },
+    {
+      "id": "pcb84-sdf5987dd",
+      "title": "Idea"
+    },
+    {
+      "id": "lkj84-sdf5987dd",
+      "title": "Architecture"
     }
   ],
   "profile": {
