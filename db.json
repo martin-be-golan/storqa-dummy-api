@@ -4,6 +4,7 @@
       "id": "3a0a5a47-362a-8092-b5a9-11d172d87f8e",
       "title": "As registered user I want to authenticate against my profile so that I can access to my projects",
       "priority": "medium",
+      "points": "3",
       "criteria": [
         {
           "id": "tt",
