@@ -5,6 +5,7 @@
       "title": "As registered user I want to authenticate against my profile so that I can access to my projects",
       "priority": "medium",
       "points": "3",
+      "status": "new",
       "criteria": [
         {
           "id": "tt",
